@@ -1,0 +1,30 @@
+Runtime:
+
+1) The number of animal crackers in the box determines the workload
+2) O(1), O(log n), O(n), O(nlogn), O(n^2), O(2^n)
+
+======================
+Stacks and Queues:
+1) In the following cases, would a stack or queue be a more appropriate data structure?
+    a) stack
+    b) queue
+    c) stack
+
+2) processing orders at a cafe/restaurant, the hackbright help queue
+3) unloading things from a car, recursive function calls
+
+======================
+Linked lists:
+head: the apple node
+tail: the cherry node
+nodes: apple, berry, cherry (the data and the pointer to the next node)
+the data for each node is the string with a fruit name
+
+========================
+Trees:
+1) BFS would visit food, italian, Indian, Mexican, lasagna, pizza, tikka masala, saag, burritos
+2) DFS would visit food, italian, lasagna, pizza, thin crust, chicago-style
+3) A binary search tree is organized efficientlyin some order so that at most, you have to search log n nodes to find the one you're looking for with DFS
+
+
+
